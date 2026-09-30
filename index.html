@@ -3,41 +3,636 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Informations, aide et documents officiels de Niyya Women.">
-  <title>Niyya Women — Informations</title>
+
+  <meta
+    name="description"
+    content="Niyya Women est un réseau social pensé pour les femmes. Découvrez la communauté, les fonctionnalités de l'application et téléchargez Niyya Women."
+  >
+
+  <meta name="theme-color" content="#FCFBF8">
+
+  <title>Niyya Women — Un espace pensé pour les femmes</title>
+
+  <link rel="icon" type="image/png" href="media/logo.png">
+  <link rel="apple-touch-icon" href="media/logo.png">
   <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
-  <header class="site-header"><nav class="nav" aria-label="Navigation principale">
-    <a class="brand" href="index.html"><span class="brand-mark">N</span><span class="brand-name">Niyya Women</span></a>
+
+  <!-- =========================
+       HEADER
+  ========================== -->
+
+  <header class="site-header">
+  <nav class="nav" aria-label="Navigation principale">
+    <a class="brand" href="index.html" aria-label="Niyya Women — accueil">
+      <img class="brand-logo" src="media/logo.png" alt="">
+      <span class="brand-name">Niyya Women</span>
+    </a>
     <button class="menu-toggle" type="button" data-menu-toggle aria-expanded="false" aria-controls="main-nav" aria-label="Ouvrir le menu">☰</button>
     <div class="nav-links" id="main-nav" data-nav-links>
-      <a href="a-propos.html">À propos</a><a href="faq.html">FAQ</a><a href="cgu.html">CGU</a><a href="confidentialite.html">Confidentialité</a><a href="mentions-legales.html">Mentions légales</a>
+      <a href="index.html">Accueil</a>
+      <a href="a-propos.html">À propos</a>
+      <a href="faq.html">FAQ</a>
+      <a href="cgu.html">CGU</a>
+      <a href="confidentialite.html">Confidentialité</a>
+      <a href="mentions-legales.html">Mentions légales</a>
     </div>
-  </nav></header>
+  </nav>
+</header>
+
 
   <main>
-    <section class="hero">
+
+    <!-- =========================
+         HERO
+    ========================== -->
+
+    <section class="hero hero-home">
+
       <div class="container hero-content">
-        <div class="eyebrow">Niyya Women · Informations</div>
-        <h1>Un espace pour comprendre, trouver de l'aide et nous contacter.</h1>
-        <p>Retrouvez ici les informations essentielles sur Niyya Women, nos documents officiels et les moyens de nous signaler un problème.</p>
+
+        <div class="eyebrow"><span class="eyebrow-dot" aria-hidden="true"></span> Un espace qui vous ressemble</div>
+
+        <h1>
+          Un espace pensé pour <span>les femmes.</span>
+        </h1>
+
+        <p class="hero-text">
+          Une communauté pour partager vos idées, vos expériences et les petits moments du quotidien, dans un espace conçu pour les femmes.
+        </p>
+
+        <div class="hero-actions">
+
+          <a class="button button-primary" href="#telecharger">
+            Découvrir l’application <span aria-hidden="true">→</span>
+          </a>
+
+          <a class="button button-secondary" href="#application">
+            En savoir plus
+          </a>
+
+        </div>
+
+        <div class="hero-art" aria-label="Aperçu de l’application Niyya Women">
+          <div class="hero-orbit orbit-one"></div>
+          <div class="hero-orbit orbit-two"></div>
+          <div class="app-screenshot">
+            <img src="media/logo.png" alt="Logo de l’application Niyya Women">
+            <span class="screenshot-caption">Niyya Women</span>
+          </div>
+          <div class="hero-note"><span>✿</span><div><strong>Un espace à vous</strong><small>Pour être pleinement vous-même</small></div></div>
+        </div>
+
       </div>
+
     </section>
+
+
+    <!-- =========================
+         PRESENTATION
+    ========================== -->
+
+    <section class="page-section" id="application">
+
+      <div class="container">
+
+        <div class="section-heading">
+
+          <div class="eyebrow">
+            L'application
+          </div>
+
+          <h2>Un quotidien plus <span class="text-accent">connecté</span></h2>
+
+          <p>
+            Niyya Women a été imaginée comme un espace social où les femmes
+            peuvent se retrouver, partager leur quotidien et échanger
+            autour de leurs expériences.
+          </p>
+
+        </div>
+
+
+        <div class="feature-grid">
+
+          <article class="feature-card">
+
+            <div class="card-icon">
+              ♡
+            </div>
+
+            <h3>
+              Une communauté
+            </h3>
+
+            <p>
+              Découvrez les publications de la communauté et partagez
+              vous aussi vos expériences, idées et moments du quotidien.
+            </p>
+
+          </article>
+
+
+          <article class="feature-card">
+
+            <div class="card-icon">
+              ✦
+            </div>
+
+            <h3>
+              Un espace personnel
+            </h3>
+
+            <p>
+              Retrouvez votre profil et les contenus que vous souhaitez
+              conserver ou partager avec la communauté.
+            </p>
+
+          </article>
+
+
+          <article class="feature-card">
+
+            <div class="card-icon">
+              ✎
+            </div>
+
+            <h3>
+              Votre journal
+            </h3>
+
+            <p>
+              Notez vos pensées, vos expériences et les moments importants
+              de votre quotidien grâce à votre espace personnel.
+            </p>
+
+          </article>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         FONCTIONNALITES
+    ========================== -->
+
+    <section class="page-section section-soft" id="fonctionnalites">
+
+      <div class="container">
+
+        <div class="section-heading">
+
+          <div class="eyebrow">
+            Fonctionnalités
+          </div>
+
+          <h2>
+            Tout au même endroit
+          </h2>
+
+          <p>
+            Niyya Women rassemble plusieurs fonctionnalités permettant
+            de créer une expérience sociale simple et intuitive.
+          </p>
+
+        </div>
+
+
+        <div class="feature-list">
+
+          <article class="feature-row">
+
+            <div class="feature-number">
+              01
+            </div>
+
+            <div>
+              <h3>
+                Publications
+              </h3>
+
+              <p>
+                Partagez du contenu avec la communauté et découvrez
+                les publications des autres membres.
+              </p>
+            </div>
+
+          </article>
+
+
+          <article class="feature-row">
+
+            <div class="feature-number">
+              02
+            </div>
+
+            <div>
+              <h3>
+                Profil personnel
+              </h3>
+
+              <p>
+                Personnalisez votre profil et présentez-vous à la
+                communauté selon vos envies.
+              </p>
+            </div>
+
+          </article>
+
+
+          <article class="feature-row">
+
+            <div class="feature-number">
+              03
+            </div>
+
+            <div>
+              <h3>
+                Journal
+              </h3>
+
+              <p>
+                Disposez d'un espace personnel pour écrire et conserver
+                vos notes et réflexions.
+              </p>
+            </div>
+
+          </article>
+
+
+          <article class="feature-row">
+
+            <div class="feature-number">
+              04
+            </div>
+
+            <div>
+              <h3>
+                Interactions
+              </h3>
+
+              <p>
+                Découvrez les contenus de la communauté et interagissez
+                avec les publications.
+              </p>
+            </div>
+
+          </article>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         COMMUNAUTE
+    ========================== -->
 
     <section class="page-section">
-      <div class="container grid">
-        <a class="card card-link" href="a-propos.html"><div class="card-icon">♡</div><h2>À propos</h2><p>Découvrez Niyya Women, son objectif et l'esprit de la communauté.</p></a>
-        <a class="card card-link" href="faq.html"><div class="card-icon">?</div><h2>FAQ</h2><p>Les réponses aux questions les plus fréquentes sur l'application.</p></a>
-        <a class="card card-link" href="cgu.html"><div class="card-icon">✓</div><h2>Conditions générales</h2><p>Les règles d'utilisation de Niyya Women et du service.</p></a>
-        <a class="card card-link" href="confidentialite.html"><div class="card-icon">⌁</div><h2>Politique de confidentialité</h2><p>Comment les données personnelles sont traitées et protégées.</p></a>
-        <a class="card card-link" href="mentions-legales.html"><div class="card-icon">§</div><h2>Mentions légales</h2><p>Les informations relatives à l'éditeur et à l'hébergement du service.</p></a>
-        <a class="card card-link" href="signaler-un-probleme.html"><div class="card-icon">!</div><h2>Signaler un problème</h2><p>Une fonctionnalité ne fonctionne pas ou vous avez besoin d'aide ?</p></a>
+
+      <div class="container">
+
+        <div class="community-block">
+
+          <div class="community-content">
+
+            <div class="eyebrow">
+              La communauté
+            </div>
+
+            <h2>
+              Un espace pour échanger,
+              partager et se retrouver.
+            </h2>
+
+            <p>
+              Niyya Women souhaite proposer un environnement social
+              dans lequel les femmes peuvent partager leurs expériences,
+              découvrir celles des autres et participer à une communauté
+              qui leur est dédiée.
+            </p>
+
+            <a class="button button-primary" href="a-propos.html">
+              En savoir plus
+            </a>
+
+          </div>
+
+        </div>
+
       </div>
+
     </section>
+
+
+    <!-- =========================
+         SECURITE
+    ========================== -->
+
+    <section class="page-section section-soft" id="securite">
+
+      <div class="container">
+
+        <div class="section-heading">
+
+          <div class="eyebrow">
+            Sécurité & confidentialité
+          </div>
+
+          <h2>
+            Vos données méritent une attention particulière.
+          </h2>
+
+          <p>
+            La protection des données et la sécurité des comptes font
+            partie des priorités de Niyya Women.
+          </p>
+
+        </div>
+
+
+        <div class="feature-grid">
+
+          <article class="feature-card">
+
+            <div class="card-icon">
+              ✓
+            </div>
+
+            <h3>
+              Protection des comptes
+            </h3>
+
+            <p>
+              Des mécanismes d'authentification et de vérification
+              sont mis en place pour protéger l'accès aux comptes.
+            </p>
+
+          </article>
+
+
+          <article class="feature-card">
+
+            <div class="card-icon">
+              ⌁
+            </div>
+
+            <h3>
+              Données personnelles
+            </h3>
+
+            <p>
+              Nous expliquons clairement quelles données sont collectées,
+              pourquoi elles le sont et comment elles sont utilisées.
+            </p>
+
+          </article>
+
+
+          <article class="feature-card">
+
+            <div class="card-icon">
+              !
+            </div>
+
+            <h3>
+              Signalement
+            </h3>
+
+            <p>
+              Un système permet de signaler un problème ou un contenu
+              nécessitant une attention particulière.
+            </p>
+
+          </article>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         TELECHARGEMENT
+    ========================== -->
+
+    <section class="page-section download-section" id="telecharger">
+
+      <div class="container">
+
+        <div class="download-content">
+
+          <div class="eyebrow">
+            Niyya Women
+          </div>
+
+          <h2>
+            Téléchargez Niyya Women
+          </h2>
+
+          <p>
+            Retrouvez Niyya Women directement sur votre smartphone
+            et rejoignez la communauté.
+          </p>
+
+
+          <div class="download-buttons">
+
+            <a
+              class="download-button"
+              href="#"
+              aria-label="Télécharger Niyya Women sur l'App Store"
+            >
+              <span class="download-icon">
+                
+              </span>
+
+              <span>
+                <small>
+                  Télécharger sur
+                </small>
+
+                <strong>
+                  App Store
+                </strong>
+              </span>
+            </a>
+
+
+            <a
+              class="download-button"
+              href="#"
+              aria-label="Télécharger Niyya Women sur Google Play"
+            >
+              <span class="download-icon">
+                ▶
+              </span>
+
+              <span>
+                <small>
+                  Disponible sur
+                </small>
+
+                <strong>
+                  Google Play
+                </strong>
+              </span>
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         AIDE
+    ========================== -->
+
+    <section class="page-section">
+
+      <div class="container">
+
+        <div class="help-grid">
+
+          <a class="card card-link" href="faq.html">
+
+            <div class="card-icon">
+              ?
+            </div>
+
+            <h2>
+              Centre d'aide
+            </h2>
+
+            <p>
+              Consultez les réponses aux questions les plus fréquentes
+              concernant Niyya Women.
+            </p>
+
+          </a>
+
+
+          <a class="card card-link" href="signaler-un-probleme.html">
+
+            <div class="card-icon">
+              !
+            </div>
+
+            <h2>
+              Signaler un problème
+            </h2>
+
+            <p>
+              Vous rencontrez un problème avec l'application ?
+              Nous pouvons vous aider.
+            </p>
+
+          </a>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         DOCUMENTS
+    ========================== -->
+
+    <section class="page-section section-soft">
+
+      <div class="container">
+
+        <div class="section-heading">
+
+          <div class="eyebrow">
+            Informations officielles
+          </div>
+
+          <h2>
+            Tout savoir sur Niyya Women
+          </h2>
+
+        </div>
+
+
+        <div class="documents-grid">
+
+          <a class="document-link" href="cgu.html">
+            <strong>
+              Conditions générales d'utilisation
+            </strong>
+
+            <span>
+              Consulter les CGU →
+            </span>
+          </a>
+
+
+          <a class="document-link" href="confidentialite.html">
+            <strong>
+              Politique de confidentialité
+            </strong>
+
+            <span>
+              Consulter la politique →
+            </span>
+          </a>
+
+
+          <a class="document-link" href="mentions-legales.html">
+            <strong>
+              Mentions légales
+            </strong>
+
+            <span>
+              Consulter les mentions →
+            </span>
+          </a>
+
+        </div>
+
+      </div>
+
+    </section>
+
   </main>
 
-  <footer class="footer"><div class="footer-inner"><small>© 2026 Niyya Women. Tous droits réservés.</small><div class="footer-links"><a href="a-propos.html">À propos</a><a href="faq.html">FAQ</a><a href="cgu.html">CGU</a><a href="confidentialite.html">Confidentialité</a><a href="mentions-legales.html">Mentions légales</a><a href="signaler-un-probleme.html">Signaler un problème</a></div></div></footer>
+
+  <!-- =========================
+       FOOTER
+  ========================== -->
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <small>© 2026 Niyya Women. Tous droits réservés.</small>
+    <div class="footer-links">
+      <a href="index.html">Accueil</a>
+      <a href="a-propos.html">À propos</a>
+      <a href="faq.html">FAQ</a>
+      <a href="cgu.html">CGU</a>
+      <a href="confidentialite.html">Confidentialité</a>
+      <a href="mentions-legales.html">Mentions légales</a>
+      <a href="signaler-un-probleme.html">Signaler un problème</a>
+    </div>
+  </div>
+</footer>
+
+
   <script src="js/main.js"></script>
+
 </body>
 </html>
