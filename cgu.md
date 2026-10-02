@@ -1,517 +1,190 @@
 # Conditions générales d'utilisation
 
-**Dernière mise à jour : 01/10/2026**
+**Dernière mise à jour : [DATE]**
 
-Les présentes Conditions générales d'utilisation (« CGU ») régissent l'accès et l'utilisation du site internet et de l'application mobile **Niyya Women**.
+Les présentes Conditions générales d'utilisation (« CGU ») définissent les règles applicables à l'utilisation de Niyya Women.
 
-En créant un compte ou en utilisant Niyya Women, l'utilisateur reconnaît avoir pris connaissance des présentes CGU et les accepter.
+En créant un compte ou en utilisant le service, l'utilisatrice reconnaît avoir pris connaissance des présentes CGU et s'engage à les respecter.
 
----
+## 1. Présentation du service
 
-# 1. Identification de l'éditeur
+Niyya Women est un service numérique destiné à permettre à ses utilisatrices de participer à une communauté sociale, de créer un profil, de publier et consulter des contenus et d'utiliser les différentes fonctionnalités proposées par le service.
 
-Le service Niyya Women est édité par :
+Les fonctionnalités disponibles peuvent évoluer dans le temps.
 
-**[DÉNOMINATION SOCIALE]**
+## 2. Conditions d'accès
 
-**Forme juridique :** [FORME]
+L'utilisation de certaines fonctionnalités nécessite la création d'un compte.
 
-**Capital social :** [MONTANT]
+Pour utiliser Niyya Women, l'utilisatrice doit :
 
-**Siège social :** [ADRESSE]
+* fournir des informations exactes lorsqu'elles sont demandées ;
+* conserver ses informations de connexion confidentielles ;
+* ne pas utiliser le compte d'une autre personne ;
+* respecter les présentes CGU et les lois applicables.
 
-**SIREN :** [SIREN]
+**[Préciser ici l'âge minimum requis et les éventuelles conditions particulières d'accès au service.]**
 
-**RCS :** [VILLE]
+## 3. Création et sécurité du compte
 
-**Email :** [EMAIL]
+L'utilisatrice est responsable des informations associées à son compte et doit prendre les mesures nécessaires pour préserver la confidentialité de ses identifiants.
 
-Ci-après dénommé **« Niyya Women »**, **« l'éditeur »** ou **« nous »**.
+En cas de suspicion d'utilisation non autorisée du compte, l'utilisatrice doit contacter Niyya Women dans les meilleurs délais.
 
----
+Niyya Women peut mettre en œuvre des mécanismes de sécurité et de vérification destinés à protéger les comptes et le service.
 
-# 2. Objet du service
+## 4. Utilisation du service
 
-Niyya Women est une application sociale destinée aux femmes.
+L'utilisatrice s'engage à utiliser Niyya Women de manière loyale, responsable et conforme aux lois et règlements applicables.
 
-Elle permet notamment, selon les fonctionnalités disponibles :
+Il est notamment interdit d'utiliser le service pour :
 
-* de créer un compte personnel ;
-* de créer un profil ;
-* de publier du contenu ;
-* de consulter les publications de la communauté ;
-* d'interagir avec certains contenus ;
-* d'utiliser un journal personnel ;
-* de signaler des contenus ou comportements ;
-* d'accéder à différentes fonctionnalités communautaires.
-
-Certaines fonctionnalités peuvent être ajoutées, modifiées ou supprimées au cours de l'évolution du service.
-
----
-
-# 3. Acceptation des CGU
-
-L'utilisation de Niyya Women implique l'acceptation des présentes CGU.
-
-Lors de la création d'un compte, l'utilisateur peut être invité à confirmer expressément son acceptation.
-
-Si l'utilisateur n'accepte pas les présentes CGU, il ne doit pas utiliser le service.
-
----
-
-# 4. Conditions d'accès
-
-L'utilisation de Niyya Women est réservée aux personnes remplissant les conditions d'inscription prévues par le service et par la réglementation applicable.
-
-### Âge minimum
-
-L'âge minimum requis pour utiliser Niyya Women est de :
-
-**[ÂGE MINIMUM À CONFIRMER]**
-
-L'utilisateur garantit respecter cette condition.
-
-Niyya Women peut demander des informations ou mettre en place des mécanismes permettant de vérifier le respect des conditions d'accès.
-
----
-
-# 5. Création du compte
-
-Certaines fonctionnalités nécessitent la création d'un compte.
-
-Lors de son inscription, l'utilisateur s'engage à fournir des informations :
-
-* exactes ;
-* à jour ;
-* complètes ;
-* non trompeuses.
-
-L'utilisateur doit mettre à jour les informations de son compte lorsqu'elles deviennent obsolètes.
-
----
-
-# 6. Compte personnel
-
-Chaque utilisateur est responsable de la sécurité de son compte.
-
-L'utilisateur doit notamment :
-
-* conserver ses identifiants confidentiels ;
-* ne pas communiquer son mot de passe ;
-* utiliser un mot de passe suffisamment robuste ;
-* signaler rapidement toute utilisation non autorisée de son compte.
-
-Toute activité réalisée depuis un compte peut être attribuée à son titulaire lorsque celui-ci n'a pas pris les précautions nécessaires pour sécuriser ses accès.
-
----
-
-# 7. Vérification du compte et de l'identité
-
-Pour des raisons de sécurité et afin de protéger la communauté, Niyya Women peut mettre en place différentes procédures de vérification.
-
-Ces procédures peuvent notamment concerner :
-
-* l'adresse e-mail ;
-* certaines informations du compte ;
-* l'identité de l'utilisateur.
-
-Lorsque la vérification d'identité est utilisée, les modalités applicables sont précisées dans la Politique de confidentialité.
-
----
-
-# 8. Règles de comportement
-
-L'utilisateur s'engage à utiliser Niyya Women de manière loyale, respectueuse et conforme aux lois et règlements applicables.
-
-Il est notamment interdit de :
-
-* harceler ou intimider une autre personne ;
-* menacer une personne ;
-* publier du contenu diffamatoire ou manifestement illicite ;
-* inciter à la haine ou à la violence ;
-* publier du contenu pédocriminel ;
-* publier ou partager du contenu sexuel interdit par la loi ;
-* publier des contenus faisant l'apologie d'infractions ;
+* commettre ou faciliter une activité illégale ;
 * usurper l'identité d'une autre personne ;
-* utiliser le compte d'une autre personne sans autorisation ;
-* diffuser des informations personnelles concernant un tiers sans droit ou autorisation lorsque celle-ci est requise ;
-* publier des contenus portant atteinte aux droits de propriété intellectuelle d'un tiers ;
-* utiliser le service pour réaliser des escroqueries ;
-* effectuer du spam ;
-* diffuser des logiciels malveillants ;
-* tenter de compromettre la sécurité du service ;
+* accéder frauduleusement à un compte ou à une partie du service ;
 * contourner les mesures de sécurité ;
-* utiliser des systèmes automatisés non autorisés ;
-* collecter massivement des données concernant les autres utilisateurs ;
-* utiliser les données accessibles sur Niyya Women à des fins illégales ;
-* créer plusieurs comptes lorsque cela est interdit ;
-* utiliser Niyya Women pour une activité frauduleuse ou illégale.
+* perturber le fonctionnement du service ;
+* diffuser des logiciels malveillants ;
+* automatiser abusivement l'utilisation du service ;
+* collecter des données d'autres utilisatrices sans autorisation ;
+* utiliser le service à des fins contraires à sa destination.
 
-Cette liste n'est pas exhaustive.
+## 5. Publications et contenus des utilisatrices
 
----
+Les utilisatrices peuvent, selon les fonctionnalités disponibles, publier des textes, images, vidéos, commentaires ou autres contenus.
 
-# 9. Contenus publiés par les utilisateurs
+L'utilisatrice reste responsable des contenus qu'elle publie.
 
-Les utilisateurs peuvent publier certains contenus sur Niyya Women.
+Elle garantit disposer des droits nécessaires pour publier les contenus concernés et s'engage à ne pas publier de contenu :
 
-Ces contenus peuvent notamment comprendre :
+* illégal ;
+* frauduleux ;
+* diffamatoire ;
+* menaçant ;
+* discriminatoire ;
+* portant atteinte aux droits d'autrui ;
+* portant atteinte à la vie privée ;
+* portant atteinte aux droits de propriété intellectuelle d'un tiers ;
+* destiné à harceler ou intimider une autre personne ;
+* contenant des logiciels malveillants ou des liens dangereux ;
+* contraire aux règles de la communauté Niyya Women.
 
-* textes ;
-* photographies ;
-* vidéos ;
-* commentaires ;
-* informations de profil ;
-* autres contenus autorisés par le service.
+**[Ajouter ici les catégories de contenus interdites qui correspondent précisément à la politique de modération de Niyya Women.]**
 
-L'utilisateur demeure responsable des contenus qu'il publie.
+## 6. Droits sur les contenus publiés
 
-Il garantit notamment :
+L'utilisatrice conserve ses droits sur les contenus dont elle est titulaire.
 
-1. disposer des droits nécessaires pour publier ces contenus ;
-2. ne pas porter atteinte aux droits des tiers ;
-3. ne pas publier de contenu illicite ;
-4. respecter les présentes CGU.
+En publiant un contenu sur Niyya Women, elle accorde à Niyya Women uniquement les droits nécessaires à l'hébergement, au stockage, à la reproduction technique, à l'affichage et au fonctionnement du service, dans la mesure nécessaire à la fourniture des fonctionnalités utilisées.
 
----
+**[Faire valider précisément la portée de cette licence, sa durée, son territoire et les utilisations autorisées.]**
 
-# 10. Licence accordée à Niyya Women
+## 7. Respect des autres utilisatrices
 
-Afin de permettre le fonctionnement du service, l'utilisateur accorde à Niyya Women une licence **non exclusive**, **mondiale**, **gratuite** et limitée à la durée pendant laquelle le contenu est disponible sur le service, permettant de :
+Niyya Women repose sur un environnement communautaire.
 
-* héberger le contenu ;
-* stocker le contenu ;
-* reproduire techniquement le contenu ;
-* adapter techniquement son format ;
-* afficher le contenu ;
-* distribuer le contenu dans le cadre des fonctionnalités du service.
+Chaque utilisatrice s'engage à respecter les autres membres et à ne pas utiliser le service pour harceler, menacer, intimider ou cibler abusivement une autre personne.
 
-Cette licence est limitée aux opérations nécessaires au fonctionnement, à la maintenance, à la sécurité et à la promotion du service lorsque cela est clairement indiqué.
+Les désaccords entre utilisatrices ne doivent pas donner lieu à des comportements contraires aux présentes CGU ou aux lois applicables.
 
-Niyya Women n'acquiert pas la propriété des contenus publiés par les utilisateurs.
+## 8. Signalement des contenus ou comportements
 
----
+Lorsqu'une utilisatrice estime qu'un contenu ou un comportement est contraire aux présentes CGU, elle peut utiliser les moyens de signalement mis à disposition par Niyya Women.
 
-# 11. Retrait d'un contenu
+Les signalements peuvent être examinés afin de déterminer les mesures appropriées.
 
-Niyya Women peut retirer ou limiter l'accès à un contenu lorsqu'elle estime notamment que celui-ci :
+Niyya Women peut demander des informations complémentaires lorsque cela est nécessaire à l'examen d'un signalement.
 
-* est contraire aux présentes CGU ;
-* est manifestement illicite ;
-* porte atteinte aux droits d'un tiers ;
-* présente un risque pour la sécurité des utilisateurs ;
-* fait l'objet d'un signalement nécessitant une intervention ;
-* est contraire à la réglementation applicable.
+## 9. Modération
 
-Lorsque la réglementation applicable l'exige, l'utilisateur concerné peut être informé de la décision et de ses motifs.
+Afin de préserver la sécurité et le bon fonctionnement de la communauté, Niyya Women peut prendre des mesures à l'encontre de contenus ou de comptes qui enfreignent les présentes CGU ou les règles applicables.
 
----
+Selon la situation, ces mesures peuvent notamment comprendre :
 
-# 12. Signalement des contenus
+* la suppression ou le retrait d'un contenu ;
+* la limitation temporaire de certaines fonctionnalités ;
+* la suspension d'un compte ;
+* la fermeture d'un compte ;
+* toute autre mesure nécessaire et proportionnée au regard de la situation.
 
-Tout utilisateur peut signaler un contenu ou un comportement qu'il estime contraire :
+**[Décrire ici, si nécessaire, la procédure de contestation ou d'appel des décisions de modération.]**
 
-* aux présentes CGU ;
-* à la loi ;
-* aux droits d'une personne ;
-* aux règles de la communauté.
+## 10. Disponibilité du service
 
-Le signalement peut être effectué via :
+Niyya Women s'efforce de maintenir le service accessible dans des conditions normales.
 
-**[URL DU FORMULAIRE DE SIGNALEMENT]**
+Cependant, certaines interruptions peuvent survenir notamment en raison :
 
-ou :
+* d'opérations de maintenance ;
+* d'évolutions techniques ;
+* d'incidents de sécurité ;
+* de problèmes liés à l'hébergement ou aux réseaux ;
+* de circonstances indépendantes de la volonté de Niyya Women.
 
-**[EMAIL DE SIGNALEMENT]**
+Niyya Women peut également faire évoluer, suspendre ou interrompre temporairement certaines fonctionnalités.
 
-Lorsqu'un signalement concerne un contenu potentiellement illicite, il est recommandé de fournir des informations suffisamment précises permettant d'identifier le contenu concerné et d'expliquer les raisons du signalement.
+## 11. Propriété intellectuelle de Niyya Women
 
----
+Les éléments propres au service Niyya Women, notamment sa marque, son logo, son interface, ses éléments graphiques, ses logiciels, ses textes et ses fonctionnalités, sont protégés par les droits applicables.
 
-# 13. Traitement des signalements
+Aucun droit de propriété sur ces éléments n'est transféré à l'utilisatrice du seul fait de l'utilisation du service.
 
-Niyya Women examine les signalements dans les conditions prévues par la réglementation applicable et par ses procédures internes.
+Toute reproduction ou exploitation non autorisée peut être interdite par les lois applicables.
 
-Selon la situation, Niyya Women peut :
+## 12. Services et liens de tiers
 
-* ne prendre aucune mesure ;
-* demander des informations complémentaires ;
-* retirer un contenu ;
-* limiter sa visibilité ;
-* suspendre certaines fonctionnalités ;
-* suspendre temporairement un compte ;
-* supprimer un compte ;
-* transmettre certaines informations aux autorités compétentes lorsque la loi l'exige.
+Certaines fonctionnalités peuvent dépendre de services fournis par des tiers.
 
-Les décisions de modération sont prises selon les règles applicables et les circonstances du cas concerné.
+Lorsque Niyya Women contient un lien vers un service externe, celui-ci est exploité sous la responsabilité de son propre opérateur.
 
----
+Les conditions applicables à ces services peuvent être différentes des présentes CGU.
 
-# 14. Modération
+## 13. Responsabilité de l'utilisatrice
 
-Niyya Women peut mettre en œuvre des mesures de modération afin de :
+L'utilisatrice est responsable de son utilisation du service et des contenus qu'elle choisit de publier.
 
-* faire respecter les présentes CGU ;
-* protéger les utilisateurs ;
-* prévenir les abus ;
-* lutter contre les contenus illicites ;
-* protéger la sécurité du service.
+Elle s'engage à respecter les présentes CGU ainsi que les dispositions légales et réglementaires qui lui sont applicables.
 
-La modération peut être effectuée par des personnes habilitées et, lorsque cela est prévu et approprié, par des outils techniques.
+## 14. Suspension ou fermeture d'un compte
 
-Les modalités de modération sont susceptibles d'évoluer.
+L'utilisatrice peut **[décrire la procédure de suppression du compte]**.
 
----
+Niyya Women peut suspendre ou fermer un compte dans les conditions prévues par les présentes CGU, notamment en cas de violation des règles applicables.
 
-# 15. Suspension ou suppression d'un compte
+Lorsque cela est approprié et possible, l'utilisatrice peut être informée de la mesure prise et de ses motifs, sous réserve des contraintes liées à la sécurité, aux obligations légales ou à la protection d'autres personnes.
 
-Niyya Women peut suspendre ou supprimer un compte notamment lorsque :
+## 15. Évolution des CGU
 
-* l'utilisateur viole les présentes CGU ;
-* l'utilisateur fournit volontairement des informations frauduleuses ;
-* le compte est utilisé pour une activité illégale ;
-* le comportement de l'utilisateur présente un risque pour d'autres personnes ;
-* le compte compromet la sécurité du service ;
-* une obligation légale impose une restriction ou une suppression.
-
-Lorsque cela est requis par la réglementation applicable, l'utilisateur est informé des raisons de la décision et des modalités de contestation disponibles.
-
----
-
-# 16. Contestation d'une décision de modération
-
-Lorsqu'une décision de modération affecte le compte ou le contenu d'un utilisateur, celui-ci peut contacter Niyya Women afin de demander un réexamen lorsque cette possibilité est prévue.
-
-**Adresse de contact :**
-
-[EMAIL MODÉRATION / RÉCLAMATIONS]
-
-La demande doit préciser :
-
-* le compte concerné ;
-* la décision contestée ;
-* les raisons de la contestation ;
-* tout élément utile à son réexamen.
-
-Les modalités et délais applicables sont communiqués à l'utilisateur lorsque cela est requis.
-
----
-
-# 17. Disponibilité du service
-
-Niyya Women s'efforce de maintenir le service accessible.
-
-Cependant, l'accès peut être temporairement interrompu notamment en cas :
-
-* de maintenance ;
-* de mise à jour ;
-* d'incident de sécurité ;
-* de panne ;
-* de défaillance d'un prestataire ;
-* de problème réseau ;
-* de force majeure.
-
-Niyya Women ne garantit pas une disponibilité permanente ou sans interruption.
-
----
-
-# 18. Évolution du service
-
-Niyya Women peut faire évoluer :
-
-* l'interface ;
-* les fonctionnalités ;
-* les conditions techniques ;
-* les systèmes de sécurité ;
-* les règles de modération ;
-* l'organisation du service.
-
-Certaines fonctionnalités peuvent être ajoutées, modifiées ou supprimées.
-
----
-
-# 19. Propriété intellectuelle
-
-Les éléments appartenant à Niyya Women, notamment :
-
-* la marque ;
-* les logos ;
-* les interfaces ;
-* les logiciels ;
-* les textes ;
-* les graphismes ;
-* les illustrations ;
-* les bases de données ;
-
-sont protégés par les règles applicables en matière de propriété intellectuelle.
-
-Toute reproduction ou exploitation non autorisée est interdite.
-
----
-
-# 20. Liens et services tiers
-
-Niyya Women peut intégrer ou proposer des liens vers des services tiers.
-
-Ces services peuvent être soumis à leurs propres conditions générales et politiques de confidentialité.
-
-Niyya Women n'est pas responsable du fonctionnement ou du contenu de services tiers qu'elle ne contrôle pas.
-
----
-
-# 21. Services des plateformes de téléchargement
-
-L'application Niyya Women peut être distribuée via des plateformes telles que :
-
-* Apple App Store ;
-* Google Play ;
-* ou toute autre plateforme de distribution autorisée.
-
-L'utilisation de ces plateformes peut être soumise à leurs propres conditions générales.
-
-Les conditions de Niyya Women s'appliquent à l'utilisation du service Niyya Women.
-
----
-
-# 22. Protection des données personnelles
-
-L'utilisation de Niyya Women implique certains traitements de données personnelles.
-
-Les modalités de collecte, d'utilisation, de conservation et de protection des données sont détaillées dans la **Politique de confidentialité**.
-
-La Politique de confidentialité est accessible à l'adresse :
-
-**[URL DE LA POLITIQUE DE CONFIDENTIALITÉ]**
-
----
-
-# 23. Suppression du compte
-
-L'utilisateur peut demander la suppression de son compte selon les fonctionnalités disponibles dans l'application ou en contactant :
-
-**[EMAIL DE CONTACT]**
-
-La suppression du compte peut entraîner la suppression ou l'anonymisation des données associées, sous réserve :
-
-* des obligations légales de conservation ;
-* des nécessités de sécurité ;
-* des besoins de prévention de la fraude ;
-* de la défense des droits de Niyya Women ;
-* des contenus devant être conservés pour respecter une obligation légale.
-
-Les modalités détaillées figurent dans la Politique de confidentialité.
-
----
-
-# 24. Responsabilité de l'utilisateur
-
-L'utilisateur est responsable de l'utilisation qu'il fait du service et des contenus qu'il publie.
-
-Il s'engage à respecter :
-
-* les présentes CGU ;
-* les lois et règlements applicables ;
-* les droits des autres utilisateurs ;
-* les droits de propriété intellectuelle ;
-* les règles relatives à la protection des données personnelles.
-
----
-
-# 25. Responsabilité de Niyya Women
-
-Niyya Women met en œuvre des moyens raisonnables pour assurer le fonctionnement et la sécurité du service.
-
-Toutefois, Niyya Women ne peut garantir :
-
-* l'absence totale d'erreur ;
-* l'absence totale de contenu illicite publié par des utilisateurs ;
-* l'absence totale de tentative de fraude ;
-* une disponibilité permanente ;
-* une sécurité absolue du réseau internet.
-
-Niyya Women agit dans les limites prévues par la réglementation applicable.
-
----
-
-# 26. Force majeure
-
-Niyya Women ne pourra être tenue responsable d'un manquement résultant d'un événement indépendant de sa volonté et présentant les caractéristiques de la force majeure au sens du droit applicable.
-
----
-
-# 27. Modification des CGU
-
-Niyya Women peut modifier les présentes CGU afin notamment de tenir compte :
-
-* des évolutions légales ;
-* des évolutions réglementaires ;
-* de nouvelles fonctionnalités ;
-* de modifications techniques ;
-* de changements dans l'organisation du service ;
-* de l'évolution des règles de sécurité ou de modération.
+Niyya Women peut modifier les présentes CGU afin de tenir compte de l'évolution du service, de ses fonctionnalités ou du cadre légal applicable.
 
 La date de dernière mise à jour est indiquée en haut du document.
 
-Lorsque la réglementation l'exige ou lorsque la modification est substantielle, les utilisateurs peuvent être informés de la modification selon des modalités appropriées.
+En cas de modification substantielle, les modalités d'information appropriées pourront être mises en œuvre.
+
+## 16. Données personnelles
+
+Les traitements de données personnelles effectués dans le cadre de Niyya Women sont décrits dans la **Politique de confidentialité**.
+
+Cette politique constitue le document de référence concernant la collecte, l'utilisation, la conservation et les droits relatifs aux données personnelles.
+
+[**Lien vers la politique de confidentialité**]
+
+## 17. Droit applicable et règlement des litiges
+
+Les présentes CGU sont soumises au droit **[FRANÇAIS / À ADAPTER]**, sous réserve des dispositions impératives applicables à l'utilisatrice.
+
+En cas de difficulté, les parties sont invitées à rechercher une solution amiable avant toute procédure contentieuse.
+
+**[Ajouter ici les informations relatives à la médiation de la consommation si elle est applicable à votre activité.]**
+
+Les juridictions compétentes sont déterminées conformément aux règles de procédure applicables.
+
+## 18. Contact
+
+Pour toute question concernant les présentes CGU ou l'utilisation du service :
+
+**E-mail : [EMAIL DE CONTACT]**
 
 ---
 
-# 28. Droit applicable
-
-Les présentes CGU sont soumises au droit français, sous réserve des dispositions impératives pouvant s'appliquer à l'utilisateur en raison de son lieu de résidence.
-
----
-
-# 29. Règlement des litiges
-
-En cas de difficulté, l'utilisateur est invité à contacter Niyya Women afin de rechercher une solution amiable.
-
-**Email :**
-
-[EMAIL]
-
-**Adresse :**
-
-[ADRESSE]
-
-Lorsque l'utilisateur est un consommateur et qu'un dispositif de médiation de la consommation est applicable, les informations relatives au médiateur compétent seront indiquées ici :
-
-**Médiateur :** [NOM DU MÉDIATEUR]
-
-**Adresse :** [ADRESSE]
-
-**Site internet :** [URL]
-
-Les conditions de recours à la médiation sont celles prévues par la réglementation applicable.
-
----
-
-# 30. Nullité partielle
-
-Si une disposition des présentes CGU est déclarée nulle, illégale ou inapplicable, les autres dispositions restent applicables dans la mesure permise par la loi.
-
-La disposition concernée sera, dans la mesure du possible, remplacée par une disposition valide ayant un effet économique et juridique aussi proche que possible de la disposition initiale.
-
----
-
-# 31. Absence de renonciation
-
-Le fait pour Niyya Women de ne pas exercer immédiatement un droit prévu par les présentes CGU ne constitue pas une renonciation à ce droit.
-
----
-
-# 32. Contact
-
-Pour toute question concernant les présentes CGU :
-
-**[DÉNOMINATION SOCIALE]**
-
-[ADRESSE]
-
-**Email :** [EMAIL]
-
-**Support :** [EMAIL SUPPORT]
-
----
-
-**Dernière mise à jour : 01/10/2026**
+**Dernière mise à jour : [DATE]**
