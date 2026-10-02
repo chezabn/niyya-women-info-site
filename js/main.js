@@ -73,10 +73,11 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll("[data-markdown-src]").forEach(async (container) => {
     try {
       const response = await fetch(container.dataset.markdownSrc);
-      if (!response.ok) return;
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
       container.innerHTML = renderMarkdown(await response.text());
-    } catch {
-      // A missing or unavailable Markdown file intentionally leaves this area blank.
+    } catch (error) {
+      container.textContent = "Impossible de charger ce document. Veuillez réessayer ultérieurement.";
+      container.setAttribute("role", "alert");
     }
   });
 });
