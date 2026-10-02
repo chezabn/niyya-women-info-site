@@ -1,6 +1,6 @@
 # Conditions générales d'utilisation
 
-**Dernière mise à jour : [DATE]**
+**Dernière mise à jour : 02/10/2026**
 
 Les présentes Conditions générales d'utilisation (« CGU ») définissent les règles applicables à l'utilisation de Niyya Women.
 
@@ -23,7 +23,7 @@ Pour utiliser Niyya Women, l'utilisatrice doit :
 * ne pas utiliser le compte d'une autre personne ;
 * respecter les présentes CGU et les lois applicables.
 
-**[Préciser ici l'âge minimum requis et les éventuelles conditions particulières d'accès au service.]**
+**16 ans**
 
 ## 3. Création et sécurité du compte
 
@@ -62,6 +62,7 @@ Elle garantit disposer des droits nécessaires pour publier les contenus concern
 * diffamatoire ;
 * menaçant ;
 * discriminatoire ;
+* sexuel ;
 * portant atteinte aux droits d'autrui ;
 * portant atteinte à la vie privée ;
 * portant atteinte aux droits de propriété intellectuelle d'un tiers ;
@@ -69,7 +70,6 @@ Elle garantit disposer des droits nécessaires pour publier les contenus concern
 * contenant des logiciels malveillants ou des liens dangereux ;
 * contraire aux règles de la communauté Niyya Women.
 
-**[Ajouter ici les catégories de contenus interdites qui correspondent précisément à la politique de modération de Niyya Women.]**
 
 ## 6. Droits sur les contenus publiés
 
@@ -77,7 +77,6 @@ L'utilisatrice conserve ses droits sur les contenus dont elle est titulaire.
 
 En publiant un contenu sur Niyya Women, elle accorde à Niyya Women uniquement les droits nécessaires à l'hébergement, au stockage, à la reproduction technique, à l'affichage et au fonctionnement du service, dans la mesure nécessaire à la fourniture des fonctionnalités utilisées.
 
-**[Faire valider précisément la portée de cette licence, sa durée, son territoire et les utilisations autorisées.]**
 
 ## 7. Respect des autres utilisatrices
 
@@ -107,7 +106,6 @@ Selon la situation, ces mesures peuvent notamment comprendre :
 * la fermeture d'un compte ;
 * toute autre mesure nécessaire et proportionnée au regard de la situation.
 
-**[Décrire ici, si nécessaire, la procédure de contestation ou d'appel des décisions de modération.]**
 
 ## 10. Disponibilité du service
 
@@ -147,7 +145,7 @@ Elle s'engage à respecter les présentes CGU ainsi que les dispositions légale
 
 ## 14. Suspension ou fermeture d'un compte
 
-L'utilisatrice peut **[décrire la procédure de suppression du compte]**.
+L'utilisatrice peut supprimer son compte. Son compte sera dans un premier temps désactiver puis supprimer après un délai de 30 jours.
 
 Niyya Women peut suspendre ou fermer un compte dans les conditions prévues par les présentes CGU, notamment en cas de violation des règles applicables.
 
@@ -167,15 +165,13 @@ Les traitements de données personnelles effectués dans le cadre de Niyya Women
 
 Cette politique constitue le document de référence concernant la collecte, l'utilisation, la conservation et les droits relatifs aux données personnelles.
 
-[**Lien vers la politique de confidentialité**]
 
 ## 17. Droit applicable et règlement des litiges
 
-Les présentes CGU sont soumises au droit **[FRANÇAIS / À ADAPTER]**, sous réserve des dispositions impératives applicables à l'utilisatrice.
+Les présentes CGU sont soumises au droit **FRANÇAIS**, sous réserve des dispositions impératives applicables à l'utilisatrice.
 
 En cas de difficulté, les parties sont invitées à rechercher une solution amiable avant toute procédure contentieuse.
 
-**[Ajouter ici les informations relatives à la médiation de la consommation si elle est applicable à votre activité.]**
 
 Les juridictions compétentes sont déterminées conformément aux règles de procédure applicables.
 
@@ -183,8 +179,8 @@ Les juridictions compétentes sont déterminées conformément aux règles de pr
 
 Pour toute question concernant les présentes CGU ou l'utilisation du service :
 
-**E-mail : [EMAIL DE CONTACT]**
+**E-mail : contact@niyya-women.com**
 
 ---
 
-**Dernière mise à jour : [DATE]**
+**Dernière mise à jour : 02/10/2026**
