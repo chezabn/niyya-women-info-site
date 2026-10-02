@@ -21,12 +21,40 @@ document.addEventListener("DOMContentLoaded", () => {
   const reportForm = document.querySelector("[data-report-form]");
   const reportMessage = document.querySelector("[data-report-message]");
 
-  if (reportForm && reportMessage) {
-    reportForm.addEventListener("submit", (event) => {
+  if (reportForm && reportMessage) { // TODO Wik Sending mail
+    reportForm.addEventListener("submit", async (event) => {
       event.preventDefault();
-      reportMessage.className = "form-message success";
-      reportMessage.textContent =
-        "Votre signalement est prêt à être envoyé. Connectez ce formulaire à votre endpoint Django avant la mise en production.";
+      const submitButton = reportForm.querySelector('button[type="submit"]');
+      const endpoint = reportForm.dataset.reportEndpoint || "/api/report-problem/";
+      const fields = new FormData(reportForm);
+
+      reportMessage.className = "form-message";
+      reportMessage.textContent = "Envoi du signalement…";
+      if (submitButton) submitButton.disabled = true;
+
+      try {
+        const response = await fetch(endpoint, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", Accept: "application/json" },
+          body: JSON.stringify({
+            category: fields.get("category"),
+            email: fields.get("email"),
+            message: fields.get("message"),
+          }),
+        });
+
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+        reportMessage.className = "form-message success";
+        reportMessage.textContent = "Votre signalement a bien été envoyé. Merci.";
+        reportForm.reset();
+      } catch (error) {
+        reportMessage.className = "form-message error";
+        reportMessage.textContent =
+          "L’envoi a échoué. Veuillez réessayer plus tard ou écrire à contact@niyya-women.com.";
+      } finally {
+        if (submitButton) submitButton.disabled = false;
+      }
     });
   }
 
