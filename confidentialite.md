@@ -12,11 +12,9 @@ Le responsable des traitements de données personnelles effectués dans le cadre
 
 Pour toute question relative à la protection de vos données :
 
-**E-mail : [EMAIL DONNÉES PERSONNELLES / EMAIL DE CONTACT]**
+**E-mail : contact@niyya-women.com**
 
-Les informations d'identification complètes de l'éditeur sont disponibles dans les :
-
-[**Mentions légales**]
+Les informations d'identification complètes de l'éditeur sont disponibles dans les mentions légales
 
 ## 2. Quelles données peuvent être traitées ?
 
@@ -44,8 +42,8 @@ Selon les fonctionnalités utilisées :
 
 Afin de vérifier l'identité d'une utilisatrice, Niyya Women peut demander, lorsque cette procédure est applicable :
 
-une photographie de votre pièce d'identité ;
-une photographie de votre visage prise en direct dans le cadre de la procédure de vérification.
+ - une photographie de votre pièce d'identité ;
+ - une photographie de votre visage prise en direct dans le cadre de la procédure de vérification.
 
 Ces éléments sont utilisés exclusivement afin de permettre la vérification de l'identité du compte.
 
@@ -61,12 +59,12 @@ Cette procédure de vérification d’identité est susceptible d’évoluer. To
 
 Lorsque vous utilisez les fonctionnalités correspondantes, Niyya Women peut traiter les contenus que vous choisissez de publier, par exemple :
 
-publications ;
-textes ;
-commentaires ;
-réactions ;
-photographies ou vidéos lorsque cette fonctionnalité est disponible ;
-informations associées à ces contenus.
+ - publications ;
+ - textes ;
+ - commentaires ;
+ - réactions ;
+ - photographies ou vidéos lorsque cette fonctionnalité est disponible ;
+ - informations associées à ces contenus.
 
 ### Données relatives au journal personnel
 
@@ -126,10 +124,8 @@ Les données peuvent être accessibles, selon les besoins :
 * aux personnes habilitées au sein de Niyya Women ;
 * aux prestataires techniques intervenant pour le fonctionnement du service ;
 * aux prestataires chargés de l'hébergement ou du stockage ;
-* aux prestataires nécessaires à l'envoi d'e-mails ou à l'authentification ;
 * aux autorités compétentes lorsque la loi l'exige.
 
-**[Remplacer cette liste par les catégories et prestataires réellement utilisés.]**
 
 Les prestataires qui traitent des données pour le compte de Niyya Women sont encadrés conformément aux exigences applicables.
 
@@ -141,32 +137,44 @@ Les prestataires qui traitent des données pour le compte de Niyya Women sont en
 
 À notre connaissance, les données ne font pas l'objet d'un transfert hors de l'Union européenne.
 
-### Transferts hors UE
-
-Certains prestataires utilisés par Niyya Women peuvent traiter des données en dehors de l'Union européenne.
-
-Dans ce cas, les transferts sont encadrés conformément aux mécanismes prévus par la réglementation applicable, notamment lorsque cela est nécessaire par des garanties appropriées.
-
-**[Préciser les pays, prestataires et mécanismes juridiques réellement concernés.]**
-
 ## 8. Combien de temps les données sont-elles conservées ?
 
 Les données personnelles sont conservées pendant une durée proportionnée à la finalité pour laquelle elles sont traitées.
 
-Les durées applicables doivent être précisées pour les principales catégories de données :
+Lorsqu’une utilisatrice demande la suppression de son compte, celui-ci est désactivé et placé dans une période de suppression différée de **30 jours**. Pendant cette période, la suppression peut être annulée selon les modalités prévues par le service.
 
-| Catégorie                                | Durée de conservation |
-| ---------------------------------------- | --------------------- |
-| Compte utilisateur                       | [DURÉE]               |
-| Données de profil                        | [DURÉE]               |
-| Publications                             | [DURÉE]               |
-| Commentaires et interactions             | [DURÉE]               |
-| Données de sécurité                      | [DURÉE]               |
-| Signalements                             | [DURÉE]               |
-| Données de support                       | [DURÉE]               |
-| Données soumises à une obligation légale | [DURÉE]               |
+À l’issue de ce délai de 30 jours, le compte ainsi que les données personnelles qui lui sont directement associées sont supprimés définitivement, sous réserve des données qui doivent être conservées plus longtemps afin de respecter une obligation légale ou de permettre l’établissement, l’exercice ou la défense de droits en justice.
 
-Certaines données peuvent être conservées plus longtemps lorsque cela est nécessaire pour respecter une obligation légale ou permettre l'établissement, l'exercice ou la défense de droits en justice.
+### Durées de conservation par catégorie
+
+- **Compte utilisateur**  
+  Pendant toute la durée d’utilisation du compte, puis **30 jours après la demande de suppression**.
+
+- **Données de profil**  
+  Pendant toute la durée d’utilisation du compte, puis **30 jours après la demande de suppression**.
+
+- **Publications**  
+  Pendant toute la durée d’utilisation du compte, puis **30 jours après la demande de suppression**.
+
+- **Commentaires et interactions**  
+  Pendant toute la durée d’utilisation du compte, puis **30 jours après la demande de suppression**.
+
+- **Données de sécurité**  
+  Pendant la durée nécessaire à la sécurité du service, puis suppression dans un délai maximal de **30 jours après la suppression du compte**, sauf nécessité particulière de conservation.
+
+- **Signalements**  
+  Pendant la durée nécessaire au traitement du signalement, puis **30 jours après la suppression du compte** lorsque les données sont directement associées à l’utilisatrice, sauf nécessité de conservation pour prévenir les abus ou satisfaire à une obligation légale.
+
+- **Données de support**  
+  Pendant la durée nécessaire au traitement de la demande, puis **30 jours après la suppression du compte**, sauf nécessité de conservation pour la gestion d'un litige ou d'une obligation légale.
+
+- **Données soumises à une obligation légale**  
+  Pendant la durée imposée par la législation applicable.
+
+Certaines données peuvent être conservées plus longtemps lorsqu'une obligation légale l'impose ou lorsque leur conservation est nécessaire à l'établissement, à l'exercice ou à la défense de droits en justice. Dans ce cas, seules les données nécessaires sont conservées et, lorsque cela est possible, elles sont placées dans un environnement d'archivage à accès restreint.
+
+À l'issue de leur durée de conservation, les données sont supprimées ou, lorsque cela est approprié, anonymisées.
+
 
 ## 9. Sécurité
 
@@ -202,7 +210,7 @@ Ces droits ne sont pas absolus et leur exercice dépend notamment de la base lé
 
 Vous pouvez exercer vos droits en contactant :
 
-**[EMAIL DÉDIÉ AUX DONNÉES PERSONNELLES]**
+**contact@niyya-women.com**
 
 Objet recommandé :
 
@@ -216,27 +224,14 @@ Les demandes sont traitées dans les délais prévus par la réglementation appl
 
 Si vous estimez, après nous avoir contactés, que vos droits ne sont pas respectés, vous pouvez introduire une réclamation auprès de la **Commission nationale de l'informatique et des libertés (CNIL)**.
 
-## 13. Cookies et autres traceurs
 
-Le site Niyya Women peut utiliser des cookies ou autres traceurs nécessaires à son fonctionnement ou, selon les services utilisés, à d'autres finalités.
-
-**[Décrire précisément les cookies et traceurs réellement utilisés.]**
-
-Pour chaque catégorie de traceur, préciser notamment :
-
-* sa finalité ;
-* son fournisseur ;
-* sa durée ;
-* son caractère nécessaire ou non ;
-* les modalités de consentement ou de refus lorsqu'elles sont applicables.
-
-## 14. Données provenant de l'application
+## 13. Données provenant de l'application
 
 La présente politique couvre également les traitements effectués dans le cadre de l'application Niyya Women, lorsque ceux-ci relèvent du même responsable de traitement.
 
 Les informations présentées dans cette politique doivent être comprises avec les informations fournies directement dans l'application au moment de la collecte des données.
 
-## 15. Modification de la politique
+## 14. Modification de la politique
 
 Niyya Women peut faire évoluer la présente politique afin de tenir compte :
 
@@ -251,4 +246,4 @@ En cas de modification substantielle nécessitant une information particulière,
 
 ---
 
-**Dernière mise à jour : [DATE]**
+**Dernière mise à jour : 02/10/2026**
