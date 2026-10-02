@@ -6,16 +6,15 @@ Le présent site internet est édité dans le cadre du service **Niyya Women**.
 
 ## 1. Éditeur du site
 
-Le site et le service Niyya Women sont édités par :
+Le site et le service **Niyya Women** sont édités par :
 
-**Saad RAFIQUL**
-Forme juridique : EI
-Siège social : 50 rue Albert Francon, 93380, Saint Denis
-SIREN : 988 351 490
-SIRET : 988 351 490 00012
-Numéro de TVA intracommunautaire : **[NUMÉRO / NON APPLICABLE]**
-Adresse e-mail de contact : **[EMAIL]**
-Téléphone : **[NUMÉRO / NON APPLICABLE]**
+**Saad RAFIQUL**  
+Forme juridique : **Entreprise individuelle (EI)**  
+Siège social : **50 rue Albert Francon, 93380 Saint-Denis, France**  
+SIREN : **988 351 490**  
+SIRET : **988 351 490 00012**  
+Numéro de TVA intracommunautaire : **[NUMÉRO / NON APPLICABLE]**  
+Adresse e-mail de contact : **contact@niyya-women.com**
 
 ## 2. Directeur de la publication
 
@@ -25,18 +24,25 @@ Le directeur de la publication est :
 
 ## 3. Hébergement
 
-Le site internet est hébergé par :
+### Site internet
 
-**[NOM DE L'HÉBERGEUR]**
-Adresse : **[ADRESSE DE L'HÉBERGEUR]**
-Téléphone : **[NUMÉRO]**
-Site internet : **[SITE DE L'HÉBERGEUR]**
+Le présent site internet est hébergé par :
 
-L'infrastructure technique de l'application Niyya Women peut être distincte de celle utilisée pour le présent site internet.
+**Infomaniak Network SA**  
+Adresse : **Rue Eugène-Marziano 25, 1227 Les Acacias, Genève, Suisse**  
+Site internet : **https://www.infomaniak.com/**
+
+### Infrastructure technique du service
+
+L'infrastructure technique utilisée pour le fonctionnement du service **Niyya Women** peut être distincte de celle utilisée pour le présent site internet.
+
+L'application utilise notamment des services d'infrastructure et de stockage distincts pour le fonctionnement de ses différents composants.
+
+Les images et fichiers du service peuvent notamment être stockés via **Cloudflare R2**, un service de stockage objet fourni par **Cloudflare, Inc.**
 
 ## 4. Propriété intellectuelle
 
-L'ensemble des éléments présents sur le site Niyya Women, notamment les textes, logos, éléments graphiques, interfaces, illustrations, photographies, icônes et éléments de marque, est protégé par les dispositions applicables en matière de propriété intellectuelle.
+L'ensemble des éléments présents sur le site et le service Niyya Women, notamment les textes, logos, éléments graphiques, interfaces, illustrations, photographies, icônes et éléments de marque, est protégé par les dispositions applicables en matière de propriété intellectuelle.
 
 Sauf indication contraire, ces éléments sont la propriété de **Saad RAFIQUL** ou sont utilisés avec l'autorisation de leurs titulaires.
 
@@ -50,23 +56,17 @@ Niyya Women ne contrôle pas ces services et ne peut être tenue responsable de 
 
 ## 6. Données personnelles
 
-Le traitement des données personnelles effectué dans le cadre du site et du service Niyya Women est présenté dans la **Politique de confidentialité**.
+Le traitement des données personnelles effectué dans le cadre du site et du service **Niyya Women** est présenté dans la **Politique de confidentialité**.
 
 Cette politique précise notamment les catégories de données traitées, les finalités, les bases légales, les durées de conservation ainsi que les droits des personnes concernées.
 
-[**Lien vers la politique de confidentialité**]
+[**Politique de confidentialité**]
 
-## 7. Cookies et traceurs
+## 7. Contact
 
-L'utilisation éventuelle de cookies ou autres traceurs sur le présent site est détaillée dans la **Politique de confidentialité** et, lorsque cela est nécessaire, dans les dispositifs d'information et de gestion des préférences proposés sur le site.
+Pour toute question concernant le site ou le service **Niyya Women** :
 
-[**Lien vers la politique de confidentialité**]
-
-## 8. Contact
-
-Pour toute question concernant le site ou le service Niyya Women :
-
-**E-mail : [EMAIL Contact]**
+**E-mail : contact@niyya-women.com**
 
 Pour les demandes relatives aux données personnelles, veuillez consulter la section dédiée de la **Politique de confidentialité**.
 
