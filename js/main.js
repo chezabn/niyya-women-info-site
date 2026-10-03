@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
     reportForm.addEventListener("submit", async (event) => {
       event.preventDefault();
       const submitButton = reportForm.querySelector('button[type="submit"]');
-      const endpoint = reportForm.dataset.reportEndpoint || "/api/report-problem/";
+      const endpoint = reportForm.dataset.reportEndpoint || "/api/support/";
       const fields = new FormData(reportForm);
 
       reportMessage.className = "form-message";
