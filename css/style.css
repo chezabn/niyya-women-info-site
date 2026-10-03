@@ -328,16 +328,16 @@ h1 span, .text-accent { color: #C89A2D; font-style: italic; }
 :root { --primary: #C89A2D; --primary-dark: #333333; --primary-soft: #FAFAFA; --primary-soft-2: #FAFAFA; --border-soft: #E0E0E0; }
 .brand-logo { display:block;width:40px;height:40px;object-fit:cover;border:1px solid rgba(200,154,45,.3);border-radius:13px;background:#fff; }
 .nav-links a:hover,.nav-links a.active { color:#333333;background:#FAFAFA; }
-.button-primary,.button:not(.button-secondary) { color:#333333;background:#C89A2D;box-shadow:0 8px 20px rgba(150,110,24,.2); }
-.button-primary:hover,.button:not(.button-secondary):hover { color:#333333;background:#C89A2D;box-shadow:0 12px 25px rgba(150,110,24,.25); }
-.community-content .button-primary { color:#333333;background:#C89A2D;box-shadow:none; }
-.community-content .button-primary:hover { color:#333333;background:#C89A2D; }
+.button-primary,.button:not(.button-secondary) { color:#FFFFFF;background:#C89A2D;box-shadow:0 8px 20px rgba(150,110,24,.2); }
+.button-primary:hover,.button:not(.button-secondary):hover { color:#FFFFFF;background:#C89A2D;box-shadow:0 12px 25px rgba(150,110,24,.25); }
+.community-content .button-primary { color:#FFFFFF;background:#C89A2D;box-shadow:none; }
+.community-content .button-primary:hover { color:#FFFFFF;background:#C89A2D; }
 .button-secondary { color:#333333;background:#FFFFFF;border-color:#E0E0E0; }
 .button-secondary:hover { color:#333333;background:#FAFAFA; }
-.menu-toggle { color:#333333;background:#C89A2D;border-color:#C89A2D; }
-.download-button { color:#333333;background:#C89A2D;border-color:#C89A2D; }
-.download-button:hover { color:#333333;background:#C89A2D; }
-.download-button small { color:rgba(51,51,51,.76); }
+.menu-toggle { color:#FFFFFF;background:#C89A2D;border-color:#C89A2D; }
+.download-button { color:#FFFFFF;background:#C89A2D;border-color:#C89A2D; }
+.download-button:hover { color:#FFFFFF;background:#C89A2D; }
+.download-button small { color:rgba(255,255,255,.82); }
 .app-screenshot { position:relative;display:grid;place-items:center;width:min(360px,80vw);aspect-ratio:1;border:9px solid #fff;border-radius:28%;background:#fff;box-shadow:0 25px 65px rgba(0,0,0,.12);transform:rotate(3deg);overflow:hidden; }
 .app-screenshot img { display:block;width:100%;height:100%;object-fit:cover;border-radius:21%; }
 .screenshot-caption { position:absolute;bottom:14px;left:50%;transform:translateX(-50%);padding:7px 15px;border:1px solid rgba(224,224,224,.9);border-radius:999px;background:rgba(255,255,255,.94);color:#333333;font-size:12px;font-weight:750;white-space:nowrap;box-shadow:0 4px 15px rgba(0,0,0,.08); }

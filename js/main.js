@@ -21,11 +21,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const reportForm = document.querySelector("[data-report-form]");
   const reportMessage = document.querySelector("[data-report-message]");
 
-  if (reportForm && reportMessage) { // TODO Wik Sending mail
+  if (reportForm && reportMessage) {
     reportForm.addEventListener("submit", async (event) => {
       event.preventDefault();
       const submitButton = reportForm.querySelector('button[type="submit"]');
-      const endpoint = reportForm.dataset.reportEndpoint || "/api/support/";
+      const endpoint = reportForm.dataset.reportEndpoint || "";
       const fields = new FormData(reportForm);
 
       reportMessage.className = "form-message";
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
           method: "POST",
           headers: { "Content-Type": "application/json", Accept: "application/json" },
           body: JSON.stringify({
-            category: fields.get("category"),
+            subject: fields.get("subject"),
             email: fields.get("email"),
             message: fields.get("message"),
           }),
