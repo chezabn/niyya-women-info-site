@@ -1,6 +1,6 @@
 # Mentions légales
 
-**Dernière mise à jour : 01/10/2026**
+**Dernière mise à jour : 10/10/2026**
 
 Le présent site internet est édité dans le cadre du service **Niyya Women**.
 
@@ -13,7 +13,6 @@ Forme juridique : **Entreprise individuelle (EI)**
 Siège social : **50 rue Albert Francon, 93380 Saint-Denis, France**  
 SIREN : **988 351 490**  
 SIRET : **988 351 490 00012**  
-Numéro de TVA intracommunautaire : **[NUMÉRO / NON APPLICABLE]**  
 Adresse e-mail de contact : **contact@niyya-women.com**
 
 ## 2. Directeur de la publication
@@ -31,6 +30,13 @@ Le présent site internet est hébergé par :
 **Infomaniak Network SA**  
 Adresse : **Rue Eugène-Marziano 25, 1227 Les Acacias, Genève, Suisse**  
 Site internet : **https://www.infomaniak.com/**
+
+L'application mobile peut être distribuée
+notamment par les plateformes de
+téléchargement suivantes:
+
+- Apple App Store;
+- Google Play Store.
 
 ### Infrastructure technique du service
 
@@ -60,13 +66,11 @@ Le traitement des données personnelles effectué dans le cadre du site et du se
 
 Cette politique précise notamment les catégories de données traitées, les finalités, les bases légales, les durées de conservation ainsi que les droits des personnes concernées.
 
-[**Politique de confidentialité**]
-
 ## 7. Contact
 
 Pour toute question concernant le site ou le service **Niyya Women** :
 
-**E-mail : contact@niyya-women.com**
+- **E-mail : contact@niyya-women.com**
 
 Pour les demandes relatives aux données personnelles, veuillez consulter la section dédiée de la **Politique de confidentialité**.
 
