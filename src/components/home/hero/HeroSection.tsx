@@ -1,5 +1,5 @@
-import StoreBadge from "../common/StoreBadge";
-import PhoneMockup from "./PhoneMockup";
+import StoreBadge from "../../common/StoreBadge.tsx";
+import PhoneMockup from "./PhoneMockup.tsx";
 
 export default function HeroSection() {
     return (

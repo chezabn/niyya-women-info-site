@@ -1,4 +1,4 @@
-import type { MockPost } from "../../data/mockPosts";
+import type { MockPost } from "../../../data/mockPosts.ts";
 
 interface PostCardProps {
     post: MockPost;

@@ -1,5 +1,5 @@
-import { mockPosts } from "../../data/mockPosts";
-import PostCard from "./PostCard";
+import { mockPosts } from "../../../data/mockPosts.ts";
+import PostCard from "./PostCard.tsx";
 
 function NotificationIcon() {
     return (

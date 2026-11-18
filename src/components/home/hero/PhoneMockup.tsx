@@ -1,4 +1,4 @@
-import ForYouFeed from "./ForYouFeed";
+import ForYouFeed from "./ForYouFeed.tsx";
 
 export default function PhoneMockup() {
     return (
