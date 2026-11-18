@@ -1,21 +1,75 @@
-# Niyya Women — site informations
+# React + TypeScript + Vite
 
-Base statique HTML/CSS/JS pour les pages publiques d'information de Niyya Women.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Pages
+Currently, two official plugins are available:
 
-- `index.html` — accueil informations
-- `a-propos.html` — à propos
-- `faq.html` — FAQ
-- `cgu.html` — CGU
-- `confidentialite.html` — politique de confidentialité
-- `mentions-legales.html` — mentions légales
-- `signaler-un-probleme.html` — formulaire de signalement
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## Important
+## React Compiler
 
-Les contenus juridiques sont des structures avec placeholders et ne constituent pas la version juridique finale. Les informations doivent être complétées et validées avant publication.
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-Le formulaire de signalement envoie un JSON à `/api/report-problem/` (modifiable avec `data-report-endpoint` sur le formulaire). Cette route doit être fournie par l'API Django et valider `category`, `email` et `message` avant l'envoi.
+## Expanding the ESLint configuration
 
-Pour envoyer les courriels avec Infomaniak, configurez SMTP côté serveur Django, jamais dans le JavaScript public : serveur `mail.infomaniak.com`, port `465`, SSL implicite (`EMAIL_USE_SSL=True`, `EMAIL_USE_TLS=False`), avec les identifiants stockés dans des variables d'environnement. Le port 465 utilise techniquement TLS implicite, même s'il est appelé « SSL » dans les paramètres SMTP.
+If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+
+```js
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+
+      // Remove tseslint.configs.recommended and replace with this
+      tseslint.configs.recommendedTypeChecked,
+      // Alternatively, use this for stricter rules
+      tseslint.configs.strictTypeChecked,
+      // Optionally, add this for stylistic rules
+      tseslint.configs.stylisticTypeChecked,
+
+      // Other configs...
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
+
+```
+
+You can also install [eslint-plugin-react-x](https://npmx.dev/package/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://npmx.dev/package/eslint-plugin-react-dom) for React-specific lint rules:
+
+```js
+// eslint.config.js
+import reactX from 'eslint-plugin-react-x'
+import reactDom from 'eslint-plugin-react-dom'
+
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+      // Enable lint rules for React
+      reactX.configs['recommended-typescript'],
+      // Enable lint rules for React DOM
+      reactDom.configs.recommended,
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
+
+```
