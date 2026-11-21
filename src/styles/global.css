@@ -8,4 +8,56 @@
     --color-background: #FFFEFC;
     --color-foreground: #252525;
     --color-muted: #777777;
+
+    /* Animations d'entrée (au chargement) */
+    --animate-fade-up: fade-up 0.9s cubic-bezier(0.22, 1, 0.36, 1) both;
+    --animate-zoom-in: zoom-in 1s cubic-bezier(0.22, 1, 0.36, 1) both;
+
+    /* Animations continues */
+    --animate-float: float 6s ease-in-out infinite;
+    --animate-float-slow: float 9s ease-in-out infinite;
+    --animate-blob: blob 14s ease-in-out infinite;
+
+    @keyframes fade-up {
+        from { opacity: 0; transform: translateY(28px); }
+        to   { opacity: 1; transform: none; }
+    }
+    @keyframes zoom-in {
+        from { opacity: 0; transform: scale(0.92); }
+        to   { opacity: 1; transform: none; }
+    }
+    @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50%      { transform: translateY(-12px); }
+    }
+    @keyframes blob {
+        0%, 100% { transform: translate(0, 0) scale(1); }
+        33%      { transform: translate(30px, 20px) scale(1.08); }
+        66%      { transform: translate(-20px, 30px) scale(0.95); }
+    }
+    @keyframes accordion-in {
+        from { opacity: 0; transform: translateY(-6px); }
+        to   { opacity: 1; transform: none; }
+    }
+}
+
+/* Défilement fluide + marge pour le header sticky */
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+}
+
+/* Ouverture douce de la FAQ */
+details[open] > :not(summary) {
+    animation: accordion-in 0.35s ease-out;
+}
+
+/* Respect de prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
 }

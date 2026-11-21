@@ -1,5 +1,6 @@
 import PhoneMockup from "./PhoneMockup";
 import PhilosophyContent from "./PhilosophyContent";
+import RevealOnScroll from "../../common/RevealOnScroll.tsx";
 
 export default function Philosophy() {
     return (
@@ -10,15 +11,17 @@ export default function Philosophy() {
                 {/* Téléphone */}
                 <div className="flex justify-center lg:justify-start">
                     <div className="translate-y-20 sm:translate-y-28">
-                        <PhoneMockup
-                            image="/media/philosophy.jpg"
-                        />
+                        <RevealOnScroll variant="from-left" duration={1000}>
+                            <PhoneMockup image="/media/philosophy.jpg" />
+                        </RevealOnScroll>
                     </div>
                 </div>
 
                 {/* Présentation */}
                 <div className="pb-20 lg:py-16">
-                    <PhilosophyContent />
+                    <RevealOnScroll variant="from-right" duration={1000}>
+                        <PhilosophyContent />
+                    </RevealOnScroll>
                 </div>
 
             </div>

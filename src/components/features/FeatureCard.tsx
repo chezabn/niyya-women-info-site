@@ -72,10 +72,11 @@ export default function FeatureCard({ feature, className = "" }: FeatureCardProp
     return (
         <article
             className={`
-                group relative flex overflow-hidden rounded-[24px] border
+                group relative flex overflow-hidden rounded-3xl border
                 p-7 md:p-8 lg:min-h-0
-                transition-[transform,box-shadow] duration-300 ease-out
+                transition-[translate,box-shadow] duration-300 ease-out
                 hover:-translate-y-0.5 hover:shadow-md
+                motion-reduce:transition-none motion-reduce:hover:translate-y-0
                 ${layout.card}
                 ${style.card}
                 ${className}
@@ -85,8 +86,8 @@ export default function FeatureCard({ feature, className = "" }: FeatureCardProp
             <div
                 className={`
                     flex items-center justify-center
-                    transition-transform duration-300
-                    group-hover:scale-105
+                    transition-[scale] duration-500 ease-out
+                    group-hover:scale-110 motion-reduce:scale-100 motion-reduce:transition-none
                     ${layout.tile}
                     ${style.tile}
                 `}
