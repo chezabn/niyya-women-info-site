@@ -42,7 +42,7 @@ export default function HeroSection() {
                     >
                         <StoreBadge
                             platform="apple"
-                            href="https://apps.apple.com/"
+                            href="https://apps.apple.com/us/app/niyya-women/id6820568044"
                             className="w-52 justify-center"
                         />
 
