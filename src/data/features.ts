@@ -33,7 +33,7 @@ export const features: Feature[] = [
     },
     {
         id: 2,
-        title: "Votre confidentialité avant tout",
+        title: "La confidentialité avant tout",
         description:
             "Profitez d'un espace où la confidentialité et la sécurité occupent une place essentielle. Vos échanges et votre vie privée méritent d'être protégés.",
         icon: ShieldCheck,

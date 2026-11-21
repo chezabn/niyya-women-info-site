@@ -7,28 +7,24 @@ interface FeatureCardProps {
 
 const variants = {
     sand: {
-        card: "bg-[#EFE7D9] text-[#25241F]",
-        description: "text-[#77736B]",
-        tile: "bg-[#24231F] text-[#C89A2D]",
-        decoration: "bg-[#C89A2D]/10",
+        card: "border-primary-dark/10 bg-primary-light text-foreground",
+        description: "text-muted",
+        tile: "border border-primary-dark/10 bg-background text-primary-dark",
     },
     gold: {
-        card: "bg-[#C89A2D] text-white",
-        description: "text-white/85",
-        tile: "bg-[#24231F] text-[#C89A2D]",
-        decoration: "bg-white/10",
+        card: "border-primary/30 bg-primary text-foreground",
+        description: "text-foreground/75",
+        tile: "border border-foreground/10 bg-background/80 text-primary-dark",
     },
     dark: {
-        card: "bg-[#24231F] text-white",
-        description: "text-white/65",
-        tile: "bg-[#C89A2D] text-[#24231F]",
-        decoration: "bg-white/5",
+        card: "border-foreground bg-foreground text-background",
+        description: "text-background/75",
+        tile: "border border-background/15 bg-primary-light text-foreground",
     },
     white: {
-        card: "bg-white text-[#25241F]",
-        description: "text-[#77736B]",
-        tile: "bg-[#24231F] text-[#C89A2D]",
-        decoration: "bg-[#C89A2D]/5",
+        card: "border-primary-dark/10 bg-background text-foreground",
+        description: "text-muted",
+        tile: "border border-primary-dark/10 bg-primary-light text-primary-dark",
     },
 };
 
@@ -76,33 +72,21 @@ export default function FeatureCard({ feature, className = "" }: FeatureCardProp
     return (
         <article
             className={`
-                group relative isolate flex overflow-hidden rounded-[24px]
+                group relative flex overflow-hidden rounded-[24px] border
                 p-7 md:p-8 lg:min-h-0
-                transition-all duration-500 ease-out
-                hover:-translate-y-1 hover:shadow-xl
+                transition-[transform,box-shadow] duration-300 ease-out
+                hover:-translate-y-0.5 hover:shadow-md
                 ${layout.card}
                 ${style.card}
                 ${className}
             `}
         >
-            {/* Décoration en arrière-plan */}
-            <div
-                aria-hidden="true"
-                className={`
-                    pointer-events-none absolute -right-16 -top-16 -z-10
-                    h-56 w-56 rounded-full blur-3xl
-                    transition-transform duration-700
-                    group-hover:scale-125
-                    ${style.decoration}
-                `}
-            />
-
-            {/* Icône façon "objet 3D" */}
+            {/* Icône */}
             <div
                 className={`
                     flex items-center justify-center
-                    shadow-lg transition-transform duration-500
-                    group-hover:-rotate-6 group-hover:scale-105
+                    transition-transform duration-300
+                    group-hover:scale-105
                     ${layout.tile}
                     ${style.tile}
                 `}
