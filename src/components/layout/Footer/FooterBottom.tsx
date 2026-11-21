@@ -9,10 +9,11 @@ export default function FooterBottom() {
             </p>
 
             <a
-                href="#home"
+                href="https://saadrafiqul.alwaysdata.net/"
+                target="_blank"
                 className="text-xs text-white/40 transition-colors hover:text-primary"
             >
-                Retour en haut ↑
+                Site conçu et développé par Saad Rafiqul
             </a>
 
         </div>
