@@ -10,6 +10,7 @@ import {
 import type { LucideIcon } from "lucide-react";
 
 export type FeatureVariant = "sand" | "gold" | "dark" | "white";
+export type FeatureSize = "tall" | "wide" | "small";
 
 export interface Feature {
     id: number;
@@ -17,7 +18,7 @@ export interface Feature {
     description: string;
     icon: LucideIcon;
     variant: FeatureVariant;
-    featured: boolean;
+    size: FeatureSize;
 }
 
 export const features: Feature[] = [
@@ -28,7 +29,7 @@ export const features: Feature[] = [
             "Prenez un moment pour vous. Écrivez vos pensées, exprimez vos émotions et conservez une trace de vos moments importants dans votre espace personnel.",
         icon: BookHeart,
         variant: "sand",
-        featured: true,
+        size: "tall",
     },
     {
         id: 2,
@@ -37,7 +38,7 @@ export const features: Feature[] = [
             "Profitez d'un espace où la confidentialité et la sécurité occupent une place essentielle. Vos échanges et votre vie privée méritent d'être protégés.",
         icon: ShieldCheck,
         variant: "gold",
-        featured: true,
+        size: "wide",
     },
     {
         id: 3,
@@ -46,7 +47,7 @@ export const features: Feature[] = [
             "Recevez des notifications pour ne manquer aucune interaction, aucun message et aucun moment important de votre communauté.",
         icon: BellRing,
         variant: "dark",
-        featured: true,
+        size: "wide",
     },
     {
         id: 4,
@@ -55,7 +56,7 @@ export const features: Feature[] = [
             "Échangez librement avec vos amies grâce aux conversations privées.",
         icon: MessageCircle,
         variant: "white",
-        featured: false,
+        size: "small",
     },
     {
         id: 5,
@@ -64,7 +65,7 @@ export const features: Feature[] = [
             "Retrouvez vos amies dans des espaces de discussion collectifs et partagez vos moments ensemble.",
         icon: UsersRound,
         variant: "sand",
-        featured: false,
+        size: "small",
     },
     {
         id: 6,
@@ -72,7 +73,7 @@ export const features: Feature[] = [
         description:
             "Niyya Women évolue constamment. De nouvelles fonctionnalités viendront enrichir votre expérience.",
         icon: Sparkles,
-        variant: "white",
-        featured: false,
+        variant: "sand",
+        size: "small",
     },
 ];
