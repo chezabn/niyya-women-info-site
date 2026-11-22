@@ -1,9 +1,13 @@
 type StorePlatform = "apple" | "google";
 
+/** "dark" : fond sombre, pour les fonds clairs. "light" : fond blanc, pour les fonds sombres (footer). */
+type StoreBadgeVariant = "dark" | "light";
+
 interface StoreBadgeProps {
     platform: StorePlatform;
     href: string;
     className?: string;
+    variant?: StoreBadgeVariant;
 }
 
 const storeContent: Record<
@@ -20,12 +24,25 @@ const storeContent: Record<
     },
 };
 
+const variants: Record<StoreBadgeVariant, { badge: string; label: string }> = {
+    dark: {
+        badge: "bg-foreground text-white hover:bg-black",
+        label: "text-white/80",
+    },
+    light: {
+        badge: "bg-white text-foreground hover:bg-primary-light",
+        label: "text-foreground/70",
+    },
+};
+
 export default function StoreBadge({
                                        platform,
                                        href,
                                        className = "",
+                                       variant = "dark",
                                    }: StoreBadgeProps) {
     const content = storeContent[platform];
+    const style = variants[variant];
 
     return (
         <a
@@ -33,7 +50,7 @@ export default function StoreBadge({
             target="_blank"
             rel="noopener noreferrer"
             aria-label={`${content.label} ${content.title}`}
-            className={`inline-flex min-h-14 items-center gap-3 rounded-xl bg-foreground px-5 py-2.5 text-white transition-transform hover:-translate-y-0.5 hover:bg-black ${className}`}
+            className={`inline-flex min-h-14 items-center gap-3 rounded-xl px-5 py-2.5 transition-[translate,background-color] hover:-translate-y-0.5 ${style.badge} ${className}`}
         >
             {platform === "apple" ? (
                 <svg
@@ -56,14 +73,14 @@ export default function StoreBadge({
             )}
 
             <span className="flex flex-col text-left leading-tight">
-        <span className="text-[10px] font-medium uppercase tracking-wide text-white/80">
-          {content.label}
-        </span>
+                <span className={`text-[10px] font-medium uppercase tracking-wide ${style.label}`}>
+                    {content.label}
+                </span>
 
-        <span className="text-base font-semibold">
-          {content.title}
-        </span>
-      </span>
+                <span className="text-base font-semibold">
+                    {content.title}
+                </span>
+            </span>
         </a>
     );
 }

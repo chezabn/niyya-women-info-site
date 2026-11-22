@@ -1,4 +1,5 @@
-import { ArrowUpRight } from "lucide-react";
+import StoreBadge from "../../common/StoreBadge";
+import { stores } from "../../../data/stores";
 
 export default function FooterCTA() {
     return (
@@ -13,9 +14,9 @@ export default function FooterCTA() {
             <div className="relative flex flex-col items-start justify-between gap-8 lg:flex-row lg:items-center">
 
                 <div className="max-w-2xl">
-          <span className="mb-4 inline-block text-xs font-semibold uppercase tracking-[0.25em] text-primary">
-            Rejoignez-nous
-          </span>
+                    <span className="mb-4 inline-block text-xs font-semibold uppercase tracking-[0.25em] text-primary">
+                        Rejoignez-nous
+                    </span>
 
                     <h2 className="text-3xl font-semibold leading-tight text-white sm:text-4xl lg:text-5xl">
                         Votre espace vous attend.
@@ -27,17 +28,18 @@ export default function FooterCTA() {
                     </p>
                 </div>
 
-                <a
-                    href="#telechargement"
-                    className="group inline-flex shrink-0 items-center gap-3 rounded-full bg-primary px-7 py-4 text-sm font-semibold text-black transition-all duration-300 hover:bg-[#D9AD48] hover:shadow-lg hover:shadow-primary/20"
-                >
-                    Découvrir l'application
-
-                    <ArrowUpRight
-                        size={18}
-                        className="transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1"
-                    />
-                </a>
+                {/* Choix de la boutique : iPhone ou Android */}
+                <div className="flex w-full shrink-0 flex-col gap-3 sm:w-auto sm:flex-row lg:flex-col">
+                    {stores.map((store) => (
+                        <StoreBadge
+                            key={store.platform}
+                            platform={store.platform}
+                            href={store.href}
+                            variant="light"
+                            className="w-full justify-center sm:w-52"
+                        />
+                    ))}
+                </div>
 
             </div>
         </div>
