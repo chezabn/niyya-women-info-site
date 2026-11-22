@@ -28,7 +28,7 @@ export default function FooterCTA() {
                 </div>
 
                 <a
-                    href="#download"
+                    href="#telechargement"
                     className="group inline-flex shrink-0 items-center gap-3 rounded-full bg-primary px-7 py-4 text-sm font-semibold text-black transition-all duration-300 hover:bg-[#D9AD48] hover:shadow-lg hover:shadow-primary/20"
                 >
                     Découvrir l'application

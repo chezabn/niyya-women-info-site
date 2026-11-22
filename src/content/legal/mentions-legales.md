@@ -35,8 +35,8 @@ L'application mobile peut être distribuée
 notamment par les plateformes de
 téléchargement suivantes:
 
-- Apple App Store;
-- Google Play Store.
+- Apple App Stores;
+- Google Play Stores.
 
 ### Infrastructure technique du service
 
