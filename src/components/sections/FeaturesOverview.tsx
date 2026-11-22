@@ -27,7 +27,7 @@ export default function FeaturesOverview() {
         <section
             id="fonctionnalites"
             aria-labelledby="features-overview-title"
-            className="overflow-hidden bg-primary-light/50 px-5 py-20 sm:px-8 md:py-24 lg:px-10 lg:py-32"
+            className="overflow-hidden bg-[#FFFEFC] px-5 py-20 sm:px-8 md:py-24 lg:px-10 lg:py-32"
         >
             <div className="mx-auto max-w-6xl">
                 <RevealOnScroll variant="fade-up" className="mx-auto mb-12 max-w-3xl md:mb-16">

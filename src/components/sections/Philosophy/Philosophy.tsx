@@ -4,7 +4,7 @@ import RevealOnScroll from "../../common/RevealOnScroll.tsx";
 
 export default function Philosophy() {
     return (
-        <section className="overflow-hidden bg-[#FAF8F3]">
+        <section className="overflow-hidden bg-[#FAF8F3]" id="philosophie">
 
             <div className="mx-auto grid max-w-7xl grid-cols-1 items-center gap-12 px-6 pt-20 lg:grid-cols-2 lg:gap-20 lg:px-12 lg:pt-24">
 

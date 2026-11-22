@@ -39,7 +39,7 @@ function AppPhone({ feed = false }: { feed?: boolean }) {
 
 export default function FeatureHighlights() {
   return (
-      <section className="overflow-hidden bg-[#FFFEFC]">
+      <section className="overflow-hidden bg-primary-light/50">
         <div className="mx-auto max-w-7xl px-6 py-20 lg:px-12 lg:py-28">
 
           {/* Ligne 1 : texte à gauche, téléphone à droite */}
