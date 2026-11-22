@@ -22,7 +22,7 @@ export const footerNavigation: FooterLinkGroup[] = [
         links: [
             { label: "Notre philosophie", href: "/#philosophie" },
             { label: "Questions fréquentes", href: "/#faq" },
-            { label: "Nous contacter", href: "mailto:contact@niyyawomen.com" },
+            { label: "Nous contacter", href: "/contact" },
         ],
     },
     {
