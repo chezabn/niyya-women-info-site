@@ -4,7 +4,7 @@ import RevealOnScroll from "../../common/RevealOnScroll.tsx";
 
 export default function PhilosophyContent() {
     return (
-        <div className="max-w-xl">
+        <div className="mt-20 max-w-xl sm:mt-28 lg:mt-0">
 
             <span className="mb-5 inline-block text-sm font-semibold uppercase tracking-[0.2em] text-primary">
                 Notre philosophie
