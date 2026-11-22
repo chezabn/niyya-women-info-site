@@ -1,24 +1,7 @@
 import { ChevronDown } from "lucide-react";
 import RevealOnScroll from "../common/RevealOnScroll";
+import { questions } from "../../data/faq";
 
-const questions = [
-    {
-        question: "À qui s’adresse Niyya Women ?",
-        answer: "Niyya Women est un espace communautaire imaginé par et pour les femmes, pour échanger et partager leurs expériences.",
-    },
-    {
-        question: "Que peut-on partager sur l’application ?",
-        answer: "Vous pouvez publier des moments de vie, des idées et des inspirations, et découvrir les publications de la communauté.",
-    },
-    {
-        question: "Peut-on échanger avec ses amies ?",
-        answer: "Oui. Niyya Women propose des échanges privés et des discussions de groupe pour garder le lien avec ses proches.",
-    },
-    {
-        question: "Où télécharger Niyya Women ?",
-        answer: "Les liens de téléchargement sont disponibles dans la section d’accueil dédiée à l’application.",
-    },
-];
 
 export default function FAQSection() {
     return (
@@ -51,9 +34,34 @@ export default function FAQSection() {
                                         className="shrink-0 text-primary-dark transition-transform duration-200 group-open:rotate-180"
                                     />
                                 </summary>
-                                <p className="max-w-3xl pb-6 pr-8 text-sm leading-7 text-muted sm:text-base">
-                                    {answer}
-                                </p>
+
+                                <div className="max-w-3xl pb-6 pr-8 text-sm leading-7 text-muted sm:text-base">
+                                    {typeof answer === "string" ? (
+                                        <p>{answer}</p>
+                                    ) : (
+                                        <div className="space-y-4">
+                                            <p>{answer.intro}</p>
+
+                                            <ol className="list-decimal space-y-2.5 pl-5 marker:font-semibold marker:text-foreground">
+                                                {answer.steps.map((step) => (
+                                                    <li key={step.label} className="pl-1">
+                                    <span className="font-semibold text-foreground">
+                                        {step.label} :
+                                    </span>{" "}
+                                                        {step.text}
+                                                    </li>
+                                                ))}
+                                            </ol>
+
+                                            <div className="space-y-1.5 pt-1">
+                                                <h3 className="font-semibold text-foreground">
+                                                    {answer.subheading}
+                                                </h3>
+                                                <p>{answer.outro}</p>
+                                            </div>
+                                        </div>
+                                    )}
+                                </div>
                             </details>
                         </RevealOnScroll>
                     ))}
